@@ -1,0 +1,54 @@
+{
+  "days": {
+    "Tuesday": {
+      "lessons": [
+        {
+          "time": "8:10-9:40",
+          "subject": "algebra",
+          "type": "lecture",
+          "room": 1419,
+          "teacher": "Antipova Lyubov Alexandrovna"
+        },
+        {
+          "time": "9:50-11:20",
+          "subject": "matanalysis",
+          "type": "lecture",
+          "room": 1419,
+          "teacher": "Antipova Lyubov Alexandrovna"
+        },
+        {
+          "time": "11:30-13:00",
+          "subject": "algebra",
+          "type": "practice",
+          "room": 1330,
+          "teacher": "Antipova Lyubov Alexandrovna"
+        },
+        {
+          "time": "13:30-15:00",
+          "subject": "matanalysis",
+          "type": "practice",
+          "room": 1320,
+          "teacher": "Tropov Victor Olegovich"
+        }
+      ]
+    },
+    "Thursday": {
+      "lessons": [
+        {
+          "time": "15:30-17:00",
+          "subject": "history",
+          "type": "lecture",
+          "room": 1405,
+          "teacher": "Vycherov Dmitry Alexandrovich"
+        },
+        {
+          "time": "9:50-11:20",
+          "subject": "history",
+          "type": "practice",
+          "room": 2336,
+          "teacher": "Gavrilova Olga Alexandrovna"
+        }
+      ]
+    }
+  }
+}
